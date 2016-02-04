@@ -1,1 +1,1 @@
-# registry-service
+# Registry Service
